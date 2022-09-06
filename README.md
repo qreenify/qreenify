@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @qreenify
-- 👀 I’m interested in the gaming industry
-- 🌱 I’m currently learning everything life offers
-- 💞️ I’m looking to collaborate on cool and weird games
+- 👀 I’m interested in programming
+- 💞️ I’m looking to collaborate on cool, weird and fun projects
 - 📫 How to reach me adam@tapper.one
 
 <!---
